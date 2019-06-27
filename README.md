@@ -5,7 +5,8 @@ Cloning Itube with Vanila and NodeJS
 ## Pages:
 
 - [ ] Home
-- [ ] Join
+- [x] Join
+- [x] Login
 - [x] Search
 - [ ] User Detail
 - [ ] Edit Profile
